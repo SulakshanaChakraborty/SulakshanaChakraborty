@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-👩🏻‍💻 I'm a grad student @ UCL in Data Science and Machine learning 
+👩🏻‍💻 I'm a grad student @UCL in Data Science and Machine learning 
 
 🌱 Passionate about NLP, Computer Vision and Recomendation systems 
 
